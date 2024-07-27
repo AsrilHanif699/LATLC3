@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException, Header
-import pandas as pd
+
 
 app = FastAPI()
 
